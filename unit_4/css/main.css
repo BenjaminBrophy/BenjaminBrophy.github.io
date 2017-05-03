@@ -1,0 +1,27 @@
+* { margin:0; padding:0; box-sizing:border-box;,}
+body {
+	font-family: @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
+	font-size:18px;
+}
+section {
+	padding:5em 0;
+}
+#intro {
+	background: url(../images/UnionStationcopyDM.JPG);
+	background-size: cover;
+	color:#fff;
+	height:95vh;
+}
+h1{
+	font-family: @import url('https://fonts.googleapis.com/css?family=Proza+Libre');
+	font-size: 2em;
+	font-weight: bold;
+}
+.button-1 {
+	display:inline-block;
+	color:inherit;
+	margin-top:1em;
+	padding:1em 3em;
+	background:purple;
+	text-decoration:none;
+}

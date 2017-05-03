@@ -1,6 +1,6 @@
 * { margin:0; padding:0; box-sizing:border-box;,}
 body {
-	font-family:helvetica, arial, sans-serif;
+	font-family: @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond');
 	font-size:18px;
 }
 section {
@@ -13,6 +13,7 @@ section {
 	height:95vh;
 }
 h1{
+	font-family: @import url('https://fonts.googleapis.com/css?family=Proza+Libre');
 	font-size: 2em;
 	font-weight: bold;
 }
