@@ -8,25 +8,58 @@ body {
 	font-family: Cormorant Garamond;
 	font-size:18px;
 }
+header {
+	background-color: [enter color here];
+	 border: 1px black solid;
+	 padding: 20px;
+}
+nav {
+	background-color:#E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
 section {
-	padding:5em 0;
+	background-color: #FFE2B8;
+	 border: 1px black solid;
+	 padding: 20px;
+	 padding:5em 0;
 }
 #intro {
 	background: url(../images/UnionStationcopyDM.JPG);
-	background-size: cover;
+	background-size: 100%;
 	color:#fff;
-	height:95vh;
-}
-h1{
-	font-family: 'Cormorant Garamond', serif;
-	font-size: 2em;
-	font-weight: bold;
+	height:75vh;
+
 }
 .button-1 {
 	display:inline-block;
-	color:inherit;
-	margin-top:1em;
+	color:black;
+	margin:0 auto;
 	padding:1em 3em;
-	background:purple;
+	background:rgba(255,255,255,.8);
 	text-decoration:none;
+	border: .1em solid gray;
+}
+.examples {
+
+}
+h1{
+	font-family: 'Proza Libre', sans-serif;
+	font-size: 2.5em;
+	font-weight: bold;
+}
+
+h3 {
+
+}
+#pitch {
+
+}
+#contactinfo {
+
+}
+footer {
+	background-color: [enter color here];
+	border: 1px black solid;
+	padding: 20px;
 }
