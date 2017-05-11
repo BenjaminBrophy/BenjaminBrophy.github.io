@@ -1,0 +1,58 @@
+
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Proza+Libre');
+
+
+* { margin:0; padding:0; box-sizing:border-box;,}
+
+body {
+	font-family: Cormorant Garamond;
+	font-size:18px;
+}
+header {
+
+}
+nav {
+	background-color:#E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+section {
+
+}
+#intro {
+	background: url(../images/UnionStationcopyDM.JPG);
+	background-size: 100%;
+	color:#fff;
+	height:75vh;
+
+}
+.button-1 {
+	display:inline-block;
+	color:black;
+	margin:0 auto;
+	padding:1em 3em;
+	background:rgba(255,255,255,.8);
+	text-decoration:none;
+	border: .1em solid gray;
+}
+.examples {
+
+}
+h1{
+	font-family: 'Proza Libre', sans-serif;
+	font-size: 2.5em;
+	font-weight: bold;
+}
+
+h3 {
+
+}
+#pitch {
+
+}
+#contactinfo {
+
+}
+footer {
+
+}
