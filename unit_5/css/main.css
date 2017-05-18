@@ -9,9 +9,7 @@ body {
 	font-size:18px;
 }
 header {
-	background-color: [enter color here];
-	 border: 1px black solid;
-	 padding: 20px;
+
 }
 nav {
 	background-color:#E8C66A;
@@ -19,10 +17,7 @@ nav {
     padding: 20px;
 }
 section {
-	background-color: #FFE2B8;
-	 border: 1px black solid;
-	 padding: 20px;
-	 padding:5em 0;
+
 }
 #intro {
 	background: url(../images/UnionStationcopyDM.JPG);
@@ -59,7 +54,5 @@ h3 {
 
 }
 footer {
-	background-color: [enter color here];
-	border: 1px black solid;
-	padding: 20px;
+	
 }

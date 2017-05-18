@@ -21,23 +21,30 @@ section {
 }
 #intro {
 	background: url(../images/UnionStationcopyDM.JPG);
-	background-size: 100%;
+	background-size: cover;
 	color:#fff;
 	height:75vh;
-
 }
 .button-1 {
 	display:inline-block;
 	color:black;
-	margin:0 auto;
 	padding:1em 3em;
 	background:rgba(255,255,255,.8);
 	text-decoration:none;
 	border: .1em solid gray;
+	margin-right: auto;
+	margin-left: auto;
 }
 .examples {
-
+	background: url(../images/musiciancopy.jpg);
+	background-size: cover;
+	color:#fff;
+	height:75vh;);
+	background-size: cover;
+	color:#fff;
+	height:75vh;
 }
+
 h1{
 	font-family: 'Proza Libre', sans-serif;
 	font-size: 2.5em;
@@ -45,7 +52,12 @@ h1{
 }
 
 h3 {
-
+	font-family: 'Proza Libre', sans-serif;
+	font-size: 1.5em;
+	font-weight: bold;
+	color: white;
+	margin-right: auto;
+	margin-left: auto;
 }
 #pitch {
 
