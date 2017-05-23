@@ -35,14 +35,44 @@ section {
 	margin-right: auto;
 	margin-left: auto;
 }
+
+#two-column {
+		background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+#left {
+    background-color: #E582A2;
+    border: 1px black solid;
+    padding: 20px;
+		float: left;
+    width: 30%;
+
+}
+
+#right {
+    background-color: #E55B88;
+    border: 1px black solid;
+    padding: 20px;
+		float: right;
+	 	width: 62%;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
 .examples {
 	background: url(../images/musiciancopy.jpg);
 	background-size: cover;
 	color:#fff;
-	height:75vh;);
+	height:480px;
 	background-size: cover;
 	color:#fff;
-	height:75vh;
+
 }
 
 h1{
