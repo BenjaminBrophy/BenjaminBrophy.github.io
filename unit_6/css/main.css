@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Proza+Libre');
 
 
@@ -23,6 +22,7 @@ section {
 	background: url(../images/UnionStationcopyDM.JPG);
 	background-size: cover;
 	color:#fff;
+	text-align: center;
 	height:75vh;
 }
 .button-1 {
@@ -65,7 +65,7 @@ section {
     clear: both;
     height: 0;
 }
-.examples {
+#musician {
 	background: url(../images/musiciancopy.jpg);
 	background-size: cover;
 	color:#fff;
